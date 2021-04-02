@@ -1,0 +1,10 @@
+  [1m[35m (10218.0ms)[0m  [1m[35mCREATE DATABASE "hedwig_backend_development" ENCODING = 'unicode'[0m
+  [1m[35m (5471.2ms)[0m  [1m[35mCREATE DATABASE "hedwig_backend_test" ENCODING = 'unicode'[0m
+  [1m[35m (263.8ms)[0m  [1m[35mDROP DATABASE IF EXISTS "hedwig_backend_development"[0m
+  [1m[35m (243.4ms)[0m  [1m[35mDROP DATABASE IF EXISTS "hedwig_backend_test"[0m
+  [1m[35m (6319.3ms)[0m  [1m[35mCREATE DATABASE "hedwig_backend_development" ENCODING = 'unicode'[0m
+  [1m[35m (5433.3ms)[0m  [1m[35mCREATE DATABASE "hedwig_backend_test" ENCODING = 'unicode'[0m
+  [1m[35m (242.1ms)[0m  [1m[35mDROP DATABASE IF EXISTS "hedwig_backend_development"[0m
+  [1m[35m (231.4ms)[0m  [1m[35mDROP DATABASE IF EXISTS "hedwig_backend_test"[0m
+  [1m[35m (6813.3ms)[0m  [1m[35mCREATE DATABASE "hedwig_backend_development" ENCODING = 'unicode'[0m
+  [1m[35m (5885.2ms)[0m  [1m[35mCREATE DATABASE "hedwig_backend_test" ENCODING = 'unicode'[0m
